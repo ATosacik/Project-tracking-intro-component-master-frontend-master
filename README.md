@@ -6,6 +6,7 @@
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
 - [My process](#my-process)
+  - [How did it go](#how-did-it-go)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
@@ -27,6 +28,10 @@ Users should be able to:
 ![Screenshot 2024-02-19 at 19-02-07 Frontend Mentor Project tracking intro component](https://github.com/ATosacik/Project-tracking-intro-component-master-frontend-master/assets/111382391/22e6c6ca-31ac-4703-808e-cc376874480b)
 
 ## My process
+
+### How did it go
+
+- positioning of main image was painful to do
 
 ### Built with
 
