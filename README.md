@@ -22,6 +22,10 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot 2024-02-19 at 19-02-16 Frontend Mentor Project tracking intro component](https://github.com/ATosacik/Project-tracking-intro-component-master-frontend-master/assets/111382391/446f3c67-8dfe-4d65-8c25-a2bd9d7958be)
+![Screenshot 2024-02-19 at 19-01-57 Frontend Mentor Project tracking intro component](https://github.com/ATosacik/Project-tracking-intro-component-master-frontend-master/assets/111382391/50316ca0-c4e0-4fbe-b440-34322826ff36)
+![Screenshot 2024-02-19 at 19-02-07 Frontend Mentor Project tracking intro component](https://github.com/ATosacik/Project-tracking-intro-component-master-frontend-master/assets/111382391/22e6c6ca-31ac-4703-808e-cc376874480b)
+
 ## My process
 
 ### Built with
